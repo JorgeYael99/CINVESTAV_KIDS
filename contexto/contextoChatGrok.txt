@@ -1,0 +1,228 @@
+Que figura esTrabajó por 18sEs un octaedro (casi seguro un octaedro regular de papel).
+Se reconoce porque:
+
+Todas las caras que se ven son triángulos.
+En cada vértice se juntan 4 triángulos.
+Tiene forma de “diamante”: dos pirámides de base cuadrada unidas por la base.
+
+En total un octaedro regular tiene 8 caras, 6 vértices y 12 aristas.chat_camera_upload_20260928_141504_1866334600764502134.jpgConsulta el contenido adjuntoTrabajó por 22sEs una bipirámide pentagonal (también llamada dipirámide pentagonal).
+Se nota sobre todo en esta segunda foto:
+
+Al mirarla desde un vértice, el contorno es un pentágono.
+En ese vértice se juntan 5 caras triangulares.
+Todas las caras que se ven son triángulos.
+
+Eso la distingue del octaedro (que, visto desde un vértice, tendría contorno cuadrado y solo 4 triángulos en cada punta).
+En total esta figura tiene 10 caras triangulares, 7 vértices y 15 aristas.de los octaedros,¿cómo lo podemos relacionar?(Por ej. quimica,etc...)Trabajó por 25sEl octaedro se relaciona muy bien con varias disciplinas. La conexión más clásica —y la que pediste de ejemplo— es la química.
+Química
+En geometría molecular, “octaédrico” significa que hay 6 átomos o ligandos alrededor de un átomo central, en los vértices de un octaedro. Los ángulos de enlace ideales son 90° y 180°. Grupo de simetría: $O_h$.⁠Wikipedia
+Ejemplos claros:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TipoEjemploIdeaMolécula simple$\mathrm{SF}_6$6 flúores alrededor del azufre; no polarCarbonilo$\mathrm{Mo(CO)}_6$mismo arregloComplejo de coordinación$[\mathrm{Fe(CN)}_6]^{4-}$, $[\mathrm{Co(NH}_3)_6]^{3+}$muy comunes en metales de transición
+Esa geometría es la base de:
+
+la teoría VSEPR (6 pares de electrones, forma $\mathrm{AX}_6$)
+la hibridación $\mathrm{sp}^3\mathrm{d}^2$
+la teoría del campo cristalino: los orbitales $d$ se separan en $t_{2g}$ y $e_g$ precisamente por la simetría octaédrica
+los isómeros cis/trans y fac/mer en complejos $\mathrm{MA}_4\mathrm{B}_2$ y $\mathrm{MA}_3\mathrm{B}_3$
+
+Si quitas pares o ligandos, el octaedro “se deforma” a otras formas conocidas:
+
+1 par solitario → pirámide de base cuadrada ($\mathrm{IF}_5$)
+2 pares solitarios → plano cuadrado ($\mathrm{XeF}_4$)
+
+Cristalografía y minerales
+Muchos cristales del sistema cúbico crecen con hábito octaédrico: 8 caras triangulares.⁠Wikipedia
+Minerales típicos:
+
+fluorita ($\mathrm{CaF}_2$)
+magnetita ($\mathrm{Fe}_3\mathrm{O}_4$)
+espinela
+diamante (a menudo octaedros)
+
+El octaedro es el dual del cubo: si pones un vértice en el centro de cada cara de un cubo, obtienes un octaedro (y al revés). Por eso cubo y octaedro aparecen juntos en el mismo sistema cristalino.
+Matemáticas
+Es uno de los 5 sólidos platónicos:
+
+8 caras (triángulos equiláteros)
+6 vértices
+12 aristas
+en cada vértice se juntan 4 triángulos
+símbolo de Schläfli $\{3,4\}$
+
+Cumple Euler: $V - E + F = 6 - 12 + 8 = 2$.
+Otras relaciones útiles
+
+Dados: el D8 de rol es un octaedro regular.
+Estructuras: redes espaciales y cerchas (barras que siguen aristas de octaedros) por su rigidez.
+Química supramolecular: hay jaulas metálicas $\mathrm{M}_6\mathrm{L}_8$ que copian un octaedro a escala nanométrica.⁠Pmc.ncbi.nlm.nih
+
+
+Nota sobre tu figura de papel: la pieza roja, por el contorno pentagonal al verla de punta, encaja mejor con una bipirámide pentagonal (10 triángulos), no con un octaedro (8 triángulos y contorno cuadrado si la miras desde un vértice). Se parecen porque ambas son “dos pirámides pegadas por la base”, pero la base del octaedro es un cuadrado y la de la tuya es un pentágono.
+Si quieres, el siguiente paso puede ser: cómo construir un octaedro de papel, cómo se ve $\mathrm{SF}_6$ en 3D, o cómo se relaciona con el cubo en un dibujo.20 sourcessi, pero crea el videoTrabajó por 5m 28sListo. Armé un video corto (28 s, 1280×720, con narración en español) que recorre exactamente la relación que pediste.
+El recorrido es:
+
+Octaedro regular girando: 8 caras, 6 vértices, 12 aristas.
+Dual del cubo: el octaedro nace al poner un vértice en el centro de cada cara del cubo.
+Molécula $\mathrm{SF}_6$: azufre al centro y seis flúores en los vértices (ángulos de 90°).
+
+Descárgalo aquí:
+octaedro_sf6.mp40:00 / 0:28Velocidad0.5x0.75xNormal1.25x1.5x2x
+También quedó la narración suelta por si la quieres reutilizar: /home/workdir/artifacts/octaedro_narracion.mp3.
+Recuerda: tu pieza roja de papel sigue siendo una bipirámide pentagonal (10 triángulos). El video muestra el octaedro (8 triángulos), que es la forma de $\mathrm{SF}_6$, la fluorita y el dual del cubo.
+Si quieres una segunda versión —más lenta, con etiquetas de ángulos, o comparando tu figura roja contra el octaedro lado a lado— la armo.5 sourcesque otras figuras hayTrabajó por 43sHay varias familias. La tuya y el octaedro pertenecen a las más importantes.
+1. Los 5 sólidos platónicos
+Caras iguales, aristas iguales, mismo número de caras en cada vértice.
+123rf.comBlue Platonic Solids And Black Wireframe Models, All Bodies With Same Size.  Regular Convex Polyhedrons With Same Number Of Identical Faces Meeting At  Each Vertex. English Labeled Illustration. Vector. Royalty Free SVG,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FiguraCarasVérticesDualEjemploTetraedro4 triángulos4él mismo$\mathrm{CH}_4$, diamante localCubo6 cuadrados8octaedrosal ($\mathrm{NaCl}$), piritaOctaedro8 triángulos6cubo$\mathrm{SF}_6$, fluoritaDodecaedro12 pentágonos20icosaedroalgunos virus, dados D12Icosaedro20 triángulos12dodecaedro$\mathrm{B}_{12}$, dados D20
+El octaedro del video es el de en medio: dual del cubo.
+2. Bipirámides (la familia de tu figura roja)
+Dos pirámides pegadas por la base.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FiguraBaseCarasRelaciónBipirámide triangulartriángulo6casi un octaedro “aplastado”Bipirámide cuadrada = octaedrocuadrado8la del video y de $\mathrm{SF}_6$Bipirámide pentagonalpentágono10tu pieza rojaBipirámide hexagonalhexágono12se usa menos; no es deltaedro regular
+Por eso se parecen: las dos son “diamante”. La diferencia es la cintura: 4 lados (octaedro) o 5 lados (la tuya).
+Las pirámides sueltas también cuentan: triangular, cuadrada, pentagonal, hexagonal…
+3. Deltaedros
+Todos los poliedros convexos hechos solo de triángulos equiláteros. Hay 8:
+
+tetraedro (4)
+bipirámide triangular (6)
+octaedro (8)
+bipirámide pentagonal (10) ← la tuya
+snub disfenoid (12)
+prisma triangular triaumentado (14)
+bipirámide cuadrada giroelongada (16)
+icosaedro (20)
+
+Si tu modelo de papel tiene triángulos casi iguales, está en esta lista.
+4. En química (VSEPR)
+No se nombran las cajas de papel, sino la forma que marcan los átomos alrededor del centro.
+uen.pressbooks.pubMolecular Geometry – Introductory Chemistry
+Las formas “puras” (sin pares solitarios):
+
+lineal — $\mathrm{CO}_2$
+trigonal plana — $\mathrm{BF}_3$
+tetraédrica — $\mathrm{CH}_4$
+bipirámide trigonal — $\mathrm{PCl}_5$
+octaédrica — $\mathrm{SF}_6$
+
+Si hay pares solitarios, el octaedro se deforma a:
+
+pirámide de base cuadrada ($\mathrm{IF}_5$)
+plano cuadrado ($\mathrm{XeF}_4$)
+
+La bipirámide pentagonal casi no aparece como molécula estable de átomo central.
+5. Otras familias (si sigues armando de papel)
+
+Prismas: dos polígonos iguales unidos por cuadrados (prisma triangular, pentagonal…).
+Antiprismas: las bases rotadas; el octaedro es un antiprisma triangular.
+Sólidos de Arquímedes: caras regulares mezcladas (cuboctaedro, icosidodecaedro…).
+Sólidos de Johnson: 92 poliedros convexos de caras regulares que no son platónicos, arquimedianos ni prismas. La bipirámide pentagonal es el J13.
+
+En corto: el video habló del octaedro. Tu objeto rojo es su primo de 5 lados, la bipirámide pentagonal. Alrededor hay tetraedro, cubo, icosaedro y las formas moleculares lineal, tetraédrica y bipirámide trigonal.
+Si quieres, el siguiente puede ser: plantillas para recortar las 5 platónicas, o un video que gire tu figura contra el octaedro.el dodecahedro como se puede visualizar en el arte?
